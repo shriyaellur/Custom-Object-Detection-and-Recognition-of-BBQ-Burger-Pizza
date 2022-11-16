@@ -1,1 +1,2 @@
 # Custom-Object-Detection-and-Recognition-of-BBQ-Burger-Pizza
+• The aim of this project is to detect objects i.e BBQ, Burger or Pizza from the given image. • Collected data using web scrapping and removed unwanted text and logos from the images using OCR and inpainting techniques. • Used Labelimg tool for annotating images. • RetinaNet101 is used as Single Stage Object Detection model to find the Bounding Box Coordinates and Class Probabilities in the input image. • Key Skills: RetinaNet101, Web Scrapping(Selenium), OCR(Optical Character Recognition), Labelimg Tool
